@@ -1018,6 +1018,7 @@
       "minecraft:spider": "2024-07-18 20:36:43 +0900",
       "minecraft:piglin_brute": "2024-08-07 09:29:06 +0900",
       "minecraft:creeper": "2024-07-18 11:18:12 +0900",
+      "minecraft:wither": "2024-08-09 19:44:21 +0900",
       "minecraft:slime": "2024-08-05 09:42:42 +0900",
       "minecraft:evoker": "2024-08-05 18:48:16 +0900",
       "minecraft:zombified_piglin": "2024-07-19 20:04:10 +0900",
@@ -3548,7 +3549,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:cat": "2024-08-06 14:35:27 +0900"
+      "minecraft:cat": "2024-08-06 14:35:27 +0900",
+      "minecraft:sheep": "2024-08-10 20:22:07 +0900"
     },
     "done": false
   },
@@ -3840,5 +3842,29 @@
     },
     "done": true
   },
-  "DataVersion": 3953
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2024-08-09 19:43:35 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2024-08-09 19:44:27 +0900"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2024-08-09 19:49:06 +0900"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2024-08-10 12:03:38 +0900"
+    },
+    "done": true
+  },
+  "DataVersion": 3955
 }
