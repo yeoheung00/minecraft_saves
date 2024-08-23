@@ -3439,6 +3439,7 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
+      "minecraft:white": "2024-08-15 17:29:57 +0900",
       "minecraft:calico": "2024-08-05 22:38:24 +0900",
       "minecraft:persian": "2024-08-06 14:28:32 +0900",
       "minecraft:british_shorthair": "2024-08-06 23:39:33 +0900"
